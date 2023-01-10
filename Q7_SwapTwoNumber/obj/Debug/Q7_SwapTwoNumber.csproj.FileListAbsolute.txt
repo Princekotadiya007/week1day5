@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\bin\Debug\Q7_SwapTwoNumber.exe.config
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\bin\Debug\Q7_SwapTwoNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\bin\Debug\Q7_SwapTwoNumber.pdb
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\obj\Debug\Q7_SwapTwoNumber.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\obj\Debug\Q7_SwapTwoNumber.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\obj\Debug\Q7_SwapTwoNumber.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\obj\Debug\Q7_SwapTwoNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q7_SwapTwoNumber\Q7_SwapTwoNumber\obj\Debug\Q7_SwapTwoNumber.pdb
