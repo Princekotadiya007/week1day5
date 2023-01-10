@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\bin\Debug\Q5_Factors.exe.config
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\bin\Debug\Q5_Factors.exe
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\bin\Debug\Q5_Factors.pdb
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\obj\Debug\Q5_Factors.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\obj\Debug\Q5_Factors.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\obj\Debug\Q5_Factors.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\obj\Debug\Q5_Factors.exe
+D:\BridgeLabz\SankeAndLadder\Q5_Factors\Q5_Factors\obj\Debug\Q5_Factors.pdb
