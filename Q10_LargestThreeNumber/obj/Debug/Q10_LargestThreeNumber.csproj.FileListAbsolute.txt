@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\bin\Debug\Q10_LargestThreeNumber.exe.config
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\bin\Debug\Q10_LargestThreeNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\bin\Debug\Q10_LargestThreeNumber.pdb
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\obj\Debug\Q10_LargestThreeNumber.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\obj\Debug\Q10_LargestThreeNumber.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\obj\Debug\Q10_LargestThreeNumber.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\obj\Debug\Q10_LargestThreeNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q10_LargestThreeNumber\Q10_LargestThreeNumber\obj\Debug\Q10_LargestThreeNumber.pdb
