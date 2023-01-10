@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\bin\Debug\Q3_PowerOf2.exe.config
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\bin\Debug\Q3_PowerOf2.exe
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\bin\Debug\Q3_PowerOf2.pdb
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\obj\Debug\Q3_PowerOf2.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\obj\Debug\Q3_PowerOf2.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\obj\Debug\Q3_PowerOf2.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\obj\Debug\Q3_PowerOf2.exe
+D:\BridgeLabz\SankeAndLadder\Q3_PowerOf2\Q3_PowerOf2\obj\Debug\Q3_PowerOf2.pdb
