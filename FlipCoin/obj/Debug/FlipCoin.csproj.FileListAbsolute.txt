@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\bin\Debug\FlipCoin.exe.config
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\bin\Debug\FlipCoin.exe
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\bin\Debug\FlipCoin.pdb
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\obj\Debug\FlipCoin.exe
+D:\BridgeLabz\SankeAndLadder\FlipCoin\FlipCoin\obj\Debug\FlipCoin.pdb
