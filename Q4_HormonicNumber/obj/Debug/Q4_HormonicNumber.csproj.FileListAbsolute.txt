@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\bin\Debug\Q4_HormonicNumber.exe.config
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\bin\Debug\Q4_HormonicNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\bin\Debug\Q4_HormonicNumber.pdb
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\obj\Debug\Q4_HormonicNumber.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\obj\Debug\Q4_HormonicNumber.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\obj\Debug\Q4_HormonicNumber.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\obj\Debug\Q4_HormonicNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q4_HormonicNumber\Q4_HormonicNumber\obj\Debug\Q4_HormonicNumber.pdb
